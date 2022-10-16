@@ -2,7 +2,7 @@
 
 
 
-$servername = "saklamakabi.mysql.database.azure.com";
+$servername = "projectsaklamakabi.mysql.database.azure.com";
 $username = "saklamakabi";
 $password = "Project-3434";
 $database_name = "saklamakabi";
