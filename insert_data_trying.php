@@ -2,7 +2,6 @@
 
 print("Deneme");
 
-/*
 $servername = "projectsaklamakabi.mysql.database.azure.com";
 $username = "saklamakabi";
 $password = "Project-3434";
@@ -24,4 +23,3 @@ if ($connection->query($sql) === TRUE) {
 }
 
 $connection->close();
-*/
