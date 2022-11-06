@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'denemesaklamakabi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CC48D270EFDA4229804422DE3742BDE5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F8D449A65F794C5B9268D37BE024A1B2 }}
           package: .
